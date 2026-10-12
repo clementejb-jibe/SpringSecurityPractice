@@ -1,0 +1,33 @@
+# Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Environment variables and secrets
+.env
+
+
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+logs/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.factorypath
+.springBeans
+.sts4-cache/
+
+# VS Code
+.vscode/
